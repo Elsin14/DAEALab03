@@ -1,0 +1,12 @@
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA-Lab03.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA-Lab03.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA_Lab03.Form1.resources
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA_Lab03.Persona.resources
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA_Lab03.Properties.Resources.resources
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA-Lab03.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA-Lab03.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\bin\Debug\DAEA-Lab03.exe.config
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\bin\Debug\DAEA-Lab03.exe
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\bin\Debug\DAEA-Lab03.pdb
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA-Lab03.exe
+C:\Users\toshiba\source\repos\DAEA-Lab03\DAEA-Lab03\obj\Debug\DAEA-Lab03.pdb
